@@ -9,8 +9,8 @@ This tool helps users quickly calculate their Body Mass Index (BMI) and determin
 * Clean & User-Friendly Interface: Simple, intuitive layout with easy navigation.
 
 📸 Screenshots
-![image](https://github.com/user-attachments/assets/1c1aed2d-3770-4ce6-bc48-e2a3c7956f0d)
-![image](https://github.com/user-attachments/assets/8e385773-772d-4638-bf1c-f79656213497)
+![image](https://github.com/user-attachments/assets/785b6f9c-aae8-4a76-8a64-9add228c1e5d)
+![image](https://github.com/user-attachments/assets/df9214e3-6e4b-4399-8239-71060fe39973)
 ![image](https://github.com/user-attachments/assets/25191b6e-c2bd-4cf5-a3c4-2f4e3f403731)
 
 
